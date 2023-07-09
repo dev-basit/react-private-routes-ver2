@@ -4,4 +4,4 @@ export const USER_TYPES = {
   adminUser: "Admin User",
 };
 
-export const CURRENT_USER = USER_TYPES.adminUser;
+export const CURRENT_USER = USER_TYPES.normalUser;
